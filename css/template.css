@@ -161,7 +161,7 @@ display:none;
     border-bottom: 3px solid var(--container-background-color);
 }
 .landing{
-    background-image: url(/images/resource-database-QC-4k41D0lg-unsplash.jpg);
+    background-image: url(./images/resource-database-QC-4k41D0lg-unsplash.jpg);
     background-size:cover;
     height:calc(100vh - 64px);
     position:relative;
